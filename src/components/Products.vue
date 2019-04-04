@@ -6,7 +6,7 @@
       <button
         :disabled="isInCart"
         @click="$emit('add-to-cart', product)"
-        class="btn btn-primary form-control"
+        class="btn btn-warning form-control"
       >{{ isInCart ? 'Added to cart' : 'Add to cart'}}</button>
     </div>
   </div>
