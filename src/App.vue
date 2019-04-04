@@ -16,6 +16,8 @@
         <cart v-on:pay="pay()" v-on:remove-from-cart="removeFromCart($event)" :items="cart"></cart>
       </div>
     </div>
+
+    <img src="assets/logo.png" alt="Vue Logo">
   </div>
 </template>
 
