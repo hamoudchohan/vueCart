@@ -1,0 +1,13 @@
+[{
+    "id": "1",
+    "title": "Rustic Concrete Hut",
+    "image": "http://lorempixel.com/640/480/people",
+    "price": "357.00"
+  },
+  {
+    "id": "2",
+    "title": "Tasty Frozen Chair",
+    "image": "http://lorempixel.com/640/480/city",
+    "price": "257.00"
+  }
+]
